@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Links on Kellen Fujimoto </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>http://localhost:1313/links/index.xml</link>
+    <language>en-us</language>
+    
+    
+    <updated>Fri, 07 Nov 2014 20:40:41 PST</updated>
+    
+    <item>
+      <title>test</title>
+      <link>http://localhost:1313/2014/11/07/test/</link>
+      <pubDate>Fri, 07 Nov 2014 20:40:41 PST</pubDate>
+      
+      <guid>http://localhost:1313/2014/11/07/test/</guid>
+      <description>
+
+&lt;h1 id=&#34;toc_0&#34;&gt;Headline here&lt;/h1&gt;
+
+&lt;p&gt;Linky stuff here.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

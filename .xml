@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title> on Kellen Fujimoto </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>http://kellenfujimoto.com/index.xml</link>
+    <language>en-us</language>
+    
+    
+    <updated>Fri, 07 Nov 2014 20:40:04 PST</updated>
+    
+    <item>
+      <title>About Me</title>
+      <link>http://kellenfujimoto.com/about/</link>
+      <pubDate>Fri, 07 Nov 2014 20:40:04 PST</pubDate>
+      
+      <guid>http://kellenfujimoto.com/about/</guid>
+      <description>
+
+&lt;p&gt;I&amp;rsquo;m a (practically) native Seattleite of a decidedly nerdy persuasion; the fact that I have a blog would be a good indication of that, I guess. When I&amp;rsquo;m not typing things into here, I&amp;rsquo;m probably out &lt;a href=&#34;http://parkourvisions.org&#34;&gt;jumping on stuff&lt;/a&gt;, making &lt;a href=&#34;https://500px.com/fujimotophotography&#34;&gt;pretty photos&lt;/a&gt;, and tinkering with various software projects.&lt;/p&gt;
+
+&lt;p&gt;I live in a cute little SLU apartment with my partner No&amp;euml;l and our cat Bella. We&amp;rsquo;re both homebodys at heart, but we do find time to explore the area (she&amp;rsquo;s from the east coast) and sample the excellent culinary options available to us.&lt;/p&gt;
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;/img/about-family.jpg&#34;  /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Our growing family&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;And this site?&lt;/h2&gt;
+
+&lt;p&gt;I love building websites. This site is built on &lt;a href=&#34;http://gohugo.io&#34;&gt;Hugo&lt;/a&gt;, a static site generator written in &lt;a href=&#34;http://golang.com&#34;&gt;Go&lt;/a&gt;. Most posts for the time being will be on my various adventures in code slinging, and I&amp;rsquo;ll try to update this regularly with links I find interesting. &lt;a href=&#34;http://kellenfujimoto.com/rss.xml&#34;&gt;Subscribe to the RSS feed&lt;/a&gt; or &lt;a href=&#34;http://twitter.com/rakenodiax&#34;&gt;follow me on Twitter&lt;/a&gt; to see when I post, and thanks for reading!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Recent Content on Kellen Fujimoto </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>http://kellenfujimoto.com/index.xml</link>
+    <language>en-us</language>
+    
+    
+    <updated>Fri, 07 Nov 2014 20:40:04 PST</updated>
+    
+    <item>
+      <title>About Me</title>
+      <link>http://kellenfujimoto.com/about/</link>
+      <pubDate>Fri, 07 Nov 2014 20:40:04 PST</pubDate>
+      
+      <guid>http://kellenfujimoto.com/about/</guid>
+      <description>
+
+&lt;p&gt;I&amp;rsquo;m a (practically) native Seattleite of a decidedly nerdy persuasion; the fact that I have a blog would be a good indication of that, I guess. When I&amp;rsquo;m not typing things into here, I&amp;rsquo;m probably out &lt;a href=&#34;http://parkourvisions.org&#34;&gt;jumping on stuff&lt;/a&gt;, making &lt;a href=&#34;https://500px.com/fujimotophotography&#34;&gt;pretty photos&lt;/a&gt;, and tinkering with various software projects.&lt;/p&gt;
+
+&lt;p&gt;I live in a cute little SLU apartment with my partner No&amp;euml;l and our cat Bella. We&amp;rsquo;re both homebodys at heart, but we do find time to explore the area (she&amp;rsquo;s from the east coast) and sample the excellent culinary options available to us.&lt;/p&gt;
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;/img/about-family.jpg&#34;  /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Our growing family&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;And this site?&lt;/h2&gt;
+
+&lt;p&gt;I love building websites. This site is built on &lt;a href=&#34;http://gohugo.io&#34;&gt;Hugo&lt;/a&gt;, a static site generator written in &lt;a href=&#34;http://golang.com&#34;&gt;Go&lt;/a&gt;. Most posts for the time being will be on my various adventures in code slinging, and I&amp;rsquo;ll try to update this regularly with links I find interesting. &lt;a href=&#34;http://kellenfujimoto.com/rss.xml&#34;&gt;Subscribe to the RSS feed&lt;/a&gt; or &lt;a href=&#34;http://twitter.com/rakenodiax&#34;&gt;follow me on Twitter&lt;/a&gt; to see when I post, and thanks for reading!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Another data giant with good intentions</title>
+      <link>http://kellenfujimoto.com/links/2014/11/06/another-data-giant-with-good-intentions/</link>
+      <pubDate>Thu, 06 Nov 2014 08:39:55 PST</pubDate>
+      
+      <guid>http://kellenfujimoto.com/links/2014/11/06/another-data-giant-with-good-intentions/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.economist.com/news/science-and-technology/21630962-growing-battery-imaging-satellites-gets-humanitarian-side-helping-hand-high&#34;&gt;The Economist&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Skybox, a recently acquired division of Google, is […] promising free imagery for categories of work it deems “for good”.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;It&amp;rsquo;s interesting how niche industries dominated by a few giant companies seem to always start off with the most altruistic goals. That Google is behind the helm of this company isn&amp;rsquo;t surprising — they&amp;rsquo;re even repurposing the &amp;ldquo;don&amp;rsquo;t be evil&amp;rdquo; rhetoric.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>the architect got left behind</title>
+      <link>http://kellenfujimoto.com/posts/2014/the-architect-got-left-behind/</link>
+      <pubDate>Wed, 05 Nov 2014 23:02:04 PST</pubDate>
+      
+      <guid>http://kellenfujimoto.com/posts/2014/the-architect-got-left-behind/</guid>
+      <description>&lt;p&gt;Way back when I was in high school, all of my schoolwork fell into a similar pattern: I would be either monumentally enthusiastic or apprehensive towards every assignment. I&amp;rsquo;d dive head first into a project, or freeze at the sight of 80 whole pages of reading a night.&lt;sup id=&#34;fnref1-the-architect-got-left-behind&#34;&gt;&lt;a href=&#34;#fn1-the-architect-got-left-behind&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;I was fortunate enough to attend a school that &lt;a href=&#34;http://pscs.org/about-pscs/&#34;&gt;encourages personal growth and self reflection&lt;/a&gt;, and so I learned to structure my work and channel my enthusiasm into productivity. It is a continuing process, but I like to think that I correct myself earlier as I practice more.&lt;/p&gt;
+
+&lt;p&gt;This diversion is an explanation. Though I am extremely excited to get Tsunami off the ground, I jumped into prototyping without considering the structure of the app. In plowing forward along the critical path, I boxed myself into a monolithic app which would make future improvements difficult at best.&lt;/p&gt;
+
+&lt;p&gt;Keeping this in mind, I&amp;rsquo;m going to be blogging more about the &lt;em&gt;structure&lt;/em&gt; of Tsunami, and developing a set of meta-goals for the project to guide future development. Expect more soon!&lt;/p&gt;
+
+&lt;p id=&#34;fn1-the-architect-got-left-behind&#34;&gt;I know, just so much, right?&lt;a href=&#34;#fnref1-the-architect-got-left-behind&#34;&gt;↩&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>It&#39;s not all bad news coming out of yesterday&#39;s elections</title>
+      <link>http://kellenfujimoto.com/links/2014/11/05/its-not-all-bad-news-coming-out-of-yesterdays-elections/</link>
+      <pubDate>Wed, 05 Nov 2014 08:48:31 PST</pubDate>
+      
+      <guid>http://kellenfujimoto.com/links/2014/11/05/its-not-all-bad-news-coming-out-of-yesterdays-elections/</guid>
+      <description>&lt;p&gt;While national-level politics turned out &lt;a href=&#34;https://www.google.com/search?q=2014+election+results&amp;amp;amp;ie=UTF-8&amp;amp;amp;oe=UTF-8&amp;amp;amp;hl=en&amp;amp;amp;client=safari&#34;&gt;abysmally&lt;/a&gt;, there&amp;rsquo;s some good news for my local friends:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Initiative 591 (outlawing further gun regulations): &lt;strong&gt;NO 68%&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Initiative 594 (closing gun show loopholes): &lt;strong&gt;YES 75%&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Seattle Proposition 1 (expanding transportation funding): &lt;strong&gt;YES 59%&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Seattle Proposition 1B (universal preschool): &lt;strong&gt;YES 67%&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;So, while the nation must face the demagogues wresting control of both houses of congress, our little corner of the country will have an improving transportation system (lord knows we need it), will care for children in need, and provide basic checks for gun sales.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Source: &lt;a href=&#34;http://your.kingcounty.gov/elections/2014/nov-general/results/results.pdf&#34;&gt;King County Elections&lt;/a&gt;&lt;/a&gt; (PDF)&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>tsunami notes 1: format choices</title>
+      <link>http://kellenfujimoto.com/posts/2014/tsunami-notes-1-format-choices/</link>
+      <pubDate>Wed, 22 Oct 2014 23:00:22 -0800</pubDate>
+      
+      <guid>http://kellenfujimoto.com/posts/2014/tsunami-notes-1-format-choices/</guid>
+      <description>&lt;h4&gt;&lt;strong&gt;Sometimes, it&amp;#39;s best to just start &lt;em&gt;somewhere&lt;/em&gt;&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;A project has been percolating on my back burner for a long while. My friend &lt;a href=&#34;http://twitter.com/ericjusino&#34;&gt;Eric&lt;/a&gt; came to me with an idea for a truly decentralized social network: a protocol similar to email in spirit but more akin to &lt;a href=&#34;http://en.wikipedia.org/wiki/BitTorrent&#34;&gt;BitTorrent&lt;/a&gt; in implementation. Obviously, discoverability is a challenge in any social network, and one without a central directory harder still. &lt;/p&gt;
+
+&lt;p&gt;Oh yeah, and it has to be both secure and anonymous while in plain sight. &lt;/p&gt;
+
+&lt;p&gt;This is obviously a massive project to bite off, and I want to eventually release this protocol into the open source world and see what direction it takes (it&amp;#39;s only appropriate that such a cooperative network should be built &lt;em&gt;by&lt;/em&gt; the community). I&amp;#39;m going to be using this blog as a journal of my progress and as a way to &amp;ldquo;&lt;a href=&#34;http://en.m.wikipedia.org/wiki/Rubber_duck_debugging&#34;&gt;think out loud&lt;/a&gt;&amp;rdquo; about making this. There&amp;#39;ll be occasional opinion posts on here, but I want to focus on the project. &lt;/p&gt;
+
+&lt;p&gt;Given the scope of this, I&amp;#39;m just going to start building the basic structure I&amp;#39;m looking for so I can begin iterating on the protocol as soon as possible. As this project needs a name (and our joke one of &amp;ldquo;GitFace&amp;rdquo; seems a bit rough), I&amp;#39;m going to go ahead and name it Tsunami. It&amp;#39;s a Japanese word (yay, heritage!), and is reminiscent of how messages propagate through the network, making minimal waves before reaching their destination. &lt;/p&gt;
+
+&lt;p&gt;Today I was hammering-out a basic format for Tsunami messages. To test the network implementation (which I will probably the next post) as soon as possible, I&amp;#39;m just doing a basic JSON structure:&lt;/p&gt;
+
+&lt;pre&gt;{
+    &amp;quot;kind&amp;quot;: &amp;quot;tsunami:alpha&amp;quot;,
+    &amp;quot;id&amp;quot;: &amp;quot;sha512 hex digest&amp;quot;,
+    &amp;quot;payload&amp;quot;: {
+        &amp;quot;metadata&amp;quot;: {
+            &amp;quot;title&amp;quot;: &amp;quot;my first title&amp;quot;,
+            &amp;quot;verification&amp;quot;: &amp;quot;should decrypt to same as message id&amp;quot;
+        },
+        &amp;quot;body&amp;quot;: &amp;quot;payload encrypted using public key encryption. Public key is functionally the to: field&amp;quot;
+    }
+}&lt;/pre&gt;
+
+&lt;p&gt;My good friend &lt;a href=&#34;http://twitter.com/russellhay&#34;&gt;Russell&lt;/a&gt; suggested a binary format to save space and prevent the need to parse out many messages; streamlining this process will result in a huge amount of saved time given how frequently these messages are going to be whizzing to and fro. I&amp;#39;m designing the server so that different message formats can be interchanged without affecting the remaining code. The current version is part of the document string, so changing implementations (such as modifying the encryption or hashing algorithms) can be propagated and declared properly.&lt;/p&gt;
+
+&lt;p&gt;I want this format to be relatively generic — not just a messaging platform, but for syndication, mailing lists, etc. &lt;strong&gt;Keeping the protocol flexible is a primary concern.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Want to get in touch about this project? &lt;a href=&#34;http://twitter.com/rakenodiax&#34;&gt;Find me on Twitter&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>time shifted reading</title>
+      <link>http://kellenfujimoto.com/posts/2014/time-shifted-reading/</link>
+      <pubDate>Tue, 21 Oct 2014 22:53:16 -0800</pubDate>
+      
+      <guid>http://kellenfujimoto.com/posts/2014/time-shifted-reading/</guid>
+      <description>&lt;p&gt;Consumption of online media has changed significantly with the increasing popularity of Twitter, Facebook, and other social networks. We&amp;rsquo;re exposed to interesting pieces all day, but it&amp;rsquo;s not always the best time to sit down and read them. A common &amp;ldquo;solution&amp;rdquo; for most people is to repost the link to their friends; this is a half solution to their problem, at best. Social networks are not designed to be curators of users&amp;rsquo; content: they are meant to hawk ever-newer wares to their followers, and any ability to find old content is incidental at best. Twitter&amp;rsquo;s and Facebook&amp;rsquo;s search capabilities are limited at best, and sifting out the &amp;ldquo;read later&amp;rdquo; links from everything else in the haystack of posts is not efficient. Luckily, this is a problem that many services address: organizing, saving, and presenting reading material in an easy-to-use way.&lt;/p&gt;
+
+&lt;p&gt;I can only assume that the behavior of &amp;ldquo;posting so I can find it later&amp;rdquo; is because of the ubiquity of social media—it&amp;rsquo;s relatively easy to remember that we put a random article on underwater basketweaving on Facebook, but digging it up can be a pain. Posting on social media is also an implicit endorsement of a link&amp;rsquo;s merit, sharing it with our followers for their benefit. The primary point of posting on Facebook or Twitter is to share with your friends. Not only is it hard to retrieve the links you &amp;ldquo;save&amp;rdquo; on your public timeline, but it inundates your followers with personal cruft that they will find irrelevant.&lt;/p&gt;
+
+&lt;p&gt;Another behavior is leaving a sea of open tabs, orphaned until the deluge is too much to handle. The reason that these pages will never be given attention—even more so with runaway bookmarks buried eight layers deep in menus—is that they are being stored in the wrong context. Do you sit down in front of your computer because you want to catch up on long form reading? That is precisely not what I use my computer for. It is a tool for sifting through data, writing, and some web surfing, not flicking a scroll wheel for an hour. Being able to read in a relaxed position at a time of your choosing is invaluable.&lt;/p&gt;
+
+&lt;p&gt;There are a many great apps out there to help with organizing your reading material. Pocket is a great start: it&amp;rsquo;s free, has some necessary features (primarily offline storage), and will display more readable text than most web pages. I personally like Instapaper: it offers a more minimalist interface, with finer control over text display, more apps that save to it, at a cost of $4. I&amp;rsquo;ve found that Pocket&amp;rsquo;s web scraper will often miss chunks of content that I want, and I love having so much control over how Instapaper behaves.&lt;/p&gt;
+
+&lt;p&gt;If you just need to organize your links without offline reading, Pinboard might fit your needs better. Pinboard emphasizes privacy and speed. They are a pay-for service—a one-time ~$10—and as a result refuse to sell their users&amp;rsquo; information to advertisers. If you&amp;rsquo;re concerned about privacy, this business model will be very appealing to you. Remember: if you aren&amp;rsquo;t paying for a service, you are the product, not the customer. Though there&amp;rsquo;s no official app, Pinner on iOS is a great client. Saving to Pinboard—like Instapaper and Pocket—is done via bookmarklet or in built into other apps like Twitterrific and Feedly. Organization is done with tags, and full text search is available with the $25 a year Archival account. Pinboard can also be used to share links with friends (like Delicious) and for reading articles offline with the Archival account, as well.&lt;/p&gt;
+
+&lt;p&gt;Though it might appear easier to cram link saving into Facebook or your bookmarks bar, it is unsustainable, especially if you read a lot of articles. Instapaper has encouraged me to read more by making it easy and fun, and hopefully these apps will help you, too.&lt;/p&gt;
+
+&lt;p&gt;If you enjoyed reading this, or would like more recommendations in the future, please add this site to your RSS reader or follow me on Twitter.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>the lonely work</title>
+      <link>http://kellenfujimoto.com/posts/2012/the-lonely-work/</link>
+      <pubDate>Wed, 07 Nov 2012 22:49:07 PST</pubDate>
+      
+      <guid>http://kellenfujimoto.com/posts/2012/the-lonely-work/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;It&amp;rsquo;s an everyday war.&lt;/p&gt;
+
+&lt;p&gt;—Stephane Vigroux, Parkour Generations&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;As traceurs, we strive to overcome obstacles as efficiently as possible. For a time, in the beginning, the going is easy. Sure we&amp;#8217;ll end up sore every night after we train, but it is easy in the moment to push ourselves to do better. All of the basic movements in parkour can be learned in a matter of months, and most of us are self-selected to be kinesthetically intelligent. This is the honeymoon stage in our relationship with the discipline—where we build new skills every day—still feeling out how it’s gonna be between us.&lt;/p&gt;
+
+&lt;p&gt;Once we have gained proficiency with those skills, however, a new leg of the journey begins. Kevin Carroll calls this &amp;#8220;the lonely work&amp;#8221;, the work that nobody knows about, but also the work that really makes a difference. To do anything well, you need to have that dedication and passion to train, by your own motivation.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;In order to shine in all moments you must prepare. You must do your homework. Preparation means doing what I call the lonely work: the unglamorous tasks that no one tells you to do and the hard work that no one will notice.&lt;/p&gt;
+
+&lt;p&gt;—Kevin Carroll, &lt;a href=&#34;http://smile.amazon.com/Rules-Red-Rubber-Ball-Sustain/dp/1933060026/ref=smi_www_rco2_go_smi?_encoding=UTF8&amp;*Version*=1&amp;*entries*=0&#34;&gt;&lt;em&gt;Rules of the Red Rubber Ball&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;As practitioners of our art we must devote untold hours honing our craft. Doing the lonely work requires a certain mental fortitude to challenge yourself, every day. You train parkour, progressing forward and avoiding stagnation at all costs. To be successful requires commitment, persistence, and patience. Nobody accomplished anything that was easy, and all of the experienced traceurs that we look up to truly dedicated themselves to parkour.&lt;/p&gt;
+
+&lt;p&gt;When coaching parkour, we emphasize that this isn&amp;#8217;t meant to be practiced once a week and called good. With this discipline you need to take pride in your work, going that extra mile between mediocre and excellent. I truly believe that an extra 30 minutes a day of training is what makes the difference, over time, between Daniel Ilabaca and the half-assers.&lt;/p&gt;
+
+&lt;p&gt;Train hard, train safe, and most importantly train well.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -79,6 +79,17 @@
                 
                     <article class="post col-md-10 col-md-offset-1">
     <div>
+        <h2><a href="http://blogs.seattletimes.com/today/2014/11/woodland-park-zoo-getting-rid-of-its-elephants/">&#8599; Woodland Park Zoo ends controversial elephant exhibit</a></h2>
+        <a href="http://kellenfujimoto.com/links/2014/11/19/woodland-park-zoo-ends-controversial-elephant-exhibit/"><div class="post-meta">Wed, Nov 19, 2014 &#x221e;</div></a>
+    </div>
+
+    <p>Glad they appear to be getting an upgrade; shame they&rsquo;ll still be in captivity.</p>
+
+
+</article>
+                
+                    <article class="post col-md-10 col-md-offset-1">
+    <div>
         <h2><a href="http://www.pinknews.co.uk/2014/11/15/us-governor-of-michigan-voids-300-same-sex-marriages-claims-they-never-existed/">&#8599; Michigan governor claims same sex marriages ‘never existed’</a></h2>
         <a href="http://kellenfujimoto.com/links/2014/11/19/michigan-governor-claims-same-sex-marriages-never-existed/"><div class="post-meta">Wed, Nov 19, 2014 &#x221e;</div></a>
     </div>
@@ -205,44 +216,6 @@
 
 <p><em>Source: <a href="http://your.kingcounty.gov/elections/2014/nov-general/results/results.pdf">King County Elections</a></a> (PDF)</em></p>
 
-
-</article>
-                
-                    <article class="post col-md-10 col-md-offset-1">
-    <div>
-        <h2><a href="http://kellenfujimoto.com/tech/2014/10/tsunami-notes-1-format-choices/">Tsunami Notes 1: Format Choices</a></h2>
-        <div class="post-meta">Wed, Oct 22, 2014 <small>~500 words</small></div>
-    </div>
-
-    <h4><strong>Sometimes, it&#39;s best to just start <em>somewhere</em></strong></h4>
-
-<p>A project has been percolating on my back burner for a long while. My friend <a href="http://twitter.com/ericjusino">Eric</a> came to me with an idea for a truly decentralized social network: a protocol similar to email in spirit but more akin to <a href="http://en.wikipedia.org/wiki/BitTorrent">BitTorrent</a> in implementation. Obviously, discoverability is a challenge in any social network, and one without a central directory harder still. </p>
-
-<p>Oh yeah, and it has to be both secure and anonymous while in plain sight. </p>
-
-<p>This is obviously a massive project to bite off, and I want to eventually release this protocol into the open source world and see what direction it takes (it&#39;s only appropriate that such a cooperative network should be built <em>by</em> the community). I&#39;m going to be using this blog as a journal of my progress and as a way to &ldquo;<a href="http://en.m.wikipedia.org/wiki/Rubber_duck_debugging">think out loud</a>&rdquo; about making this. There&#39;ll be occasional opinion posts on here, but I want to focus on the project. </p>
-
-<p>Given the scope of this, I&#39;m just going to start building the basic structure I&#39;m looking for so I can begin iterating on the protocol as soon as possible. As this project needs a name (and our joke one of &ldquo;GitFace&rdquo; seems a bit rough), I&#39;m going to go ahead and name it Tsunami. It&#39;s a Japanese word (yay, heritage!), and is reminiscent of how messages propagate through the network, making minimal waves before reaching their destination. </p>
-
-<p>Today I was hammering-out a basic format for Tsunami messages. To test the network implementation (which I will probably the next post) as soon as possible, I&#39;m just doing a basic JSON structure:</p>
-
-<pre>{
-    &quot;kind&quot;: &quot;tsunami:alpha&quot;,
-    &quot;id&quot;: &quot;sha512 hex digest&quot;,
-    &quot;payload&quot;: {
-        &quot;metadata&quot;: {
-            &quot;title&quot;: &quot;my first title&quot;,
-            &quot;verification&quot;: &quot;should decrypt to same as message id&quot;
-        },
-        &quot;body&quot;: &quot;payload encrypted using public key encryption. Public key is functionally the to: field&quot;
-    }
-}</pre>
-
-<p>My good friend <a href="http://twitter.com/russellhay">Russell</a> suggested a binary format to save space and prevent the need to parse out many messages; streamlining this process will result in a huge amount of saved time given how frequently these messages are going to be whizzing to and fro. I&#39;m designing the server so that different message formats can be interchanged without affecting the remaining code. The current version is part of the document string, so changing implementations (such as modifying the encryption or hashing algorithms) can be propagated and declared properly.</p>
-
-<p>I want this format to be relatively generic — not just a messaging platform, but for syndication, mailing lists, etc. <strong>Keeping the protocol flexible is a primary concern.</strong></p>
-
-<p>Want to get in touch about this project? <a href="http://twitter.com/rakenodiax">Find me on Twitter</a></p>
 
 </article>
                 

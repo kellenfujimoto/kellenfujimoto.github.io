@@ -7,7 +7,17 @@
     <language>en-us</language>
     
     
-    <updated>Tue, 21 Oct 2014 22:53:16 -0800</updated>
+    <updated>Tue, 18 Nov 2014 18:27:14 PST</updated>
+    
+    <item>
+      <title>Automated Hugo posting with Dropbox</title>
+      <link>http://kellenfujimoto.com/blog/2014/11/automated-hugo-posting-with-dropbox/</link>
+      <pubDate>Tue, 18 Nov 2014 18:27:14 PST</pubDate>
+      
+      <guid>http://kellenfujimoto.com/blog/2014/11/automated-hugo-posting-with-dropbox/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve thrown together a little script to automatically build my Hugo site when I write a new draft (using Drafts 4 on my phone — that&amp;rsquo;s the subject of another post, though). It&amp;rsquo;s hacked-together Perl and a &lt;a href=&#34;https://github.com/alandipert/fswatch&#34;&gt;file system monitor&lt;/a&gt; right now; I&amp;rsquo;m planning on cleaning it up and putting it on github when I get my act together, though.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>time shifted reading</title>

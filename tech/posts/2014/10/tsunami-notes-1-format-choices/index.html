@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+
+    <base href="http://localhost:1313">
+    <title>Kellen Fujimoto</title>
+    <link rel="canonical" href="http://localhost:1313/tech/posts/2014/10/tsunami-notes-1-format-choices/">
+    <link href="" rel="alternate" type="application/rss+xml" title="Kellen Fujimoto" />
+
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" />
+<link href='http://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
+<style type="text/css">
+    body {
+        font-family: 'Lato', sans-serif;
+        background: rgb(50, 50, 50);
+        height: 100%;
+    }
+
+    a, a:link, a:active, a:visited, a:hover {
+        color: inherit;
+    }
+
+    #column {
+        max-width:760px;
+        margin: auto;
+        background: white;
+        height: 100%;
+    }
+
+    h2 {
+        margin-bottom: 0;
+    }
+
+    .post-meta {
+        margin-bottom: 7px;
+    }
+
+    footer {
+        margin-top: 3em;
+    }
+    img {
+        display: block;
+        margin: 0 0 1rem;
+        border-radius: 5px;
+        max-width: 100%;
+    }
+</style>
+</head>
+
+<body lang="en">
+    <div id="column" class="container">
+        <header class="col-md-10 col-md-offset-1">
+        <a href="http://localhost:1313"><h1>Kellen Fujimoto</h1></a>
+        <ul class="list-inline">
+            
+            <li><a href="http://localhost:1313/about/">About</a></li>
+            
+            <li><a href="http://twitter.com/rakenodiax">Twitter</a></li>
+        </ul>
+    </header>
+
+    <hr class="col-md-10 col-md-offset-1" />
+<article class="post col-md-10 col-md-offset-1">
+    <div>
+        <h2><a href="http://localhost:1313/tech/posts/2014/10/tsunami-notes-1-format-choices/">Tsunami Notes 1: Format Choices</a></h2>
+        <div class="post-meta">Wed, Oct 22, 2014 <small>~500 words</small></div>
+    </div>
+
+    <h4><strong>Sometimes, it&#39;s best to just start <em>somewhere</em></strong></h4>
+
+<p>A project has been percolating on my back burner for a long while. My friend <a href="http://twitter.com/ericjusino">Eric</a> came to me with an idea for a truly decentralized social network: a protocol similar to email in spirit but more akin to <a href="http://en.wikipedia.org/wiki/BitTorrent">BitTorrent</a> in implementation. Obviously, discoverability is a challenge in any social network, and one without a central directory harder still. </p>
+
+<p>Oh yeah, and it has to be both secure and anonymous while in plain sight. </p>
+
+<p>This is obviously a massive project to bite off, and I want to eventually release this protocol into the open source world and see what direction it takes (it&#39;s only appropriate that such a cooperative network should be built <em>by</em> the community). I&#39;m going to be using this blog as a journal of my progress and as a way to &ldquo;<a href="http://en.m.wikipedia.org/wiki/Rubber_duck_debugging">think out loud</a>&rdquo; about making this. There&#39;ll be occasional opinion posts on here, but I want to focus on the project. </p>
+
+<p>Given the scope of this, I&#39;m just going to start building the basic structure I&#39;m looking for so I can begin iterating on the protocol as soon as possible. As this project needs a name (and our joke one of &ldquo;GitFace&rdquo; seems a bit rough), I&#39;m going to go ahead and name it Tsunami. It&#39;s a Japanese word (yay, heritage!), and is reminiscent of how messages propagate through the network, making minimal waves before reaching their destination. </p>
+
+<p>Today I was hammering-out a basic format for Tsunami messages. To test the network implementation (which I will probably the next post) as soon as possible, I&#39;m just doing a basic JSON structure:</p>
+
+<pre>{
+    &quot;kind&quot;: &quot;tsunami:alpha&quot;,
+    &quot;id&quot;: &quot;sha512 hex digest&quot;,
+    &quot;payload&quot;: {
+        &quot;metadata&quot;: {
+            &quot;title&quot;: &quot;my first title&quot;,
+            &quot;verification&quot;: &quot;should decrypt to same as message id&quot;
+        },
+        &quot;body&quot;: &quot;payload encrypted using public key encryption. Public key is functionally the to: field&quot;
+    }
+}</pre>
+
+<p>My good friend <a href="http://twitter.com/russellhay">Russell</a> suggested a binary format to save space and prevent the need to parse out many messages; streamlining this process will result in a huge amount of saved time given how frequently these messages are going to be whizzing to and fro. I&#39;m designing the server so that different message formats can be interchanged without affecting the remaining code. The current version is part of the document string, so changing implementations (such as modifying the encryption or hashing algorithms) can be propagated and declared properly.</p>
+
+<p>I want this format to be relatively generic — not just a messaging platform, but for syndication, mailing lists, etc. <strong>Keeping the protocol flexible is a primary concern.</strong></p>
+
+<p>Want to get in touch about this project? <a href="http://twitter.com/rakenodiax">Find me on Twitter</a></p>
+
+</article>
+<div class="col-md-10 col-md-offset-1">
+    
+        <a class="previous" href="http://localhost:1313/links/2014/11/05/its-not-all-bad-news-coming-out-of-yesterdays-elections/"><span class="glyphicon glyphicon-backward"></span></a>
+    
+    
+        <a class="next" href="http://localhost:1313/blog/posts/2014/10/time-shifted-reading/"><span class="glyphicon glyphicon-forward"></span></a>
+    
+</div>
+
+<footer class="col-md-10 col-md-offset-1">
+    <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">kellenfujimoto.com</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://kellenfujimoto.com" property="cc:attributionName" rel="cc:attributionURL">Kellen Fujimoto</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+</footer>
+ </div>
+</body>
+</html>

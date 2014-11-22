@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+
+    <base href="http://localhost:1313">
+    <title>Kellen Fujimoto</title>
+    <link rel="canonical" href="http://localhost:1313/tech/2014/11/using-drafts-4-as-a-blogging-client/">
+    <link href="" rel="alternate" type="application/rss+xml" title="Kellen Fujimoto" />
+
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" />
+<link href='http://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
+<style type="text/css">
+    body {
+        font-family: 'Lato', sans-serif;
+        background: rgb(50, 50, 50);
+        height: 100%;
+    }
+
+    a, a:link, a:active, a:visited, a:hover {
+        color: inherit;
+    }
+    
+    p a:link, p a:active, p a:visited {
+        border-bottom: 1px dotted #999;
+    }
+    
+    p a:hover {
+        border-bottom-style: solid;
+    }
+
+    #column {
+        max-width:760px;
+        margin: auto;
+        background: white;
+        height: 100%;
+    }
+
+    h2 {
+        margin-bottom: 0;
+    }
+
+    .post-meta {
+        margin-bottom: 7px;
+    }
+
+    footer {
+        margin-top: 3em;
+    }
+    img {
+        display: block;
+        margin: 0 0 1rem;
+        border-radius: 5px;
+        max-width: 100%;
+    }
+</style>
+</head>
+
+<body lang="en">
+    <div id="column" class="container">
+        <header class="col-md-10 col-md-offset-1">
+        <a href="http://localhost:1313"><h1>Kellen Fujimoto</h1></a>
+        <ul class="list-inline">
+            
+            <li><a href="http://localhost:1313/about/">About</a></li>
+            
+            <li><a href="http://twitter.com/rakenodiax">Twitter</a></li>
+        </ul>
+        </header>
+
+        <hr class="col-md-10 col-md-offset-1" />
+
+<article class="post col-md-10 col-md-offset-1">
+    <div>
+        <h2><a href="http://localhost:1313/tech/2014/11/using-drafts-4-as-a-blogging-client/">Using Drafts 4 As A Blogging Client</a></h2>
+        <div class="post-meta">Wed, Nov 19, 2014 <small>~300 words</small></div>
+    </div>
+
+    <p>When Agile Tortoise&rsquo;s awesome update of Drafts for iOS came out with iOS 8, <a href="https://twitter.com/agiletortoise">Greg Pierce</a> added a potent extension mechanism into the app. This — paired with a potent directory — opened up a limitless possibility for customization by users, provided they knew what they wanted and how to assemble it. This was a brilliant feature to add, given the geeky slant of Drafts&rsquo; user base.</p>
+
+<p>I decided to use this newfound capability to build a lightweight blogging client, feeding posts into an installation of <a href="http://gohugo.io/">Hugo</a> on my desktop. While I could manually create posts using my <a href="https://appsto.re/us/gERYG.i">iOS text editor of choice</a> and push them to Dropbox, I&rsquo;d prefer a more automated approach.</p>
+
+<p>The built-in Dropbox share action has most of what I need. I can set up a template which takes care of the post boilerplate for me (publication date, title, etc.) using built in template tags. The only missing pieces were with file names (Hugo uses post filenames as slugs) and declaring a source link for link list posts.</p>
+
+<p>I used a quick regular expression on the title, adding a slug attribute to the draft object, and used line selection for crude link declaration (currently, if I accidentally omit a valid hyperlink in the second line of a link post, there&rsquo;ll be a very bizarre dead href in the post title). Quick and easy.</p>
+
+<p>Once I have the file saved to Dropbox, my iMac takes over once the file is synced (usually takes a second or three)…</p>
+
+</article>
+<div class="col-md-10 col-md-offset-1">
+    
+        <a class="previous" href="http://localhost:1313/links/2014/11/20/six-colors-reviews-the-ipad-air-2/"><span class="glyphicon glyphicon-backward"></span></a>
+    
+    
+        <a class="next" href="http://localhost:1313/links/2014/11/19/woodland-park-zoo-ends-controversial-elephant-exhibit/"><span class="glyphicon glyphicon-forward"></span></a>
+    
+</div>
+
+        <footer class="col-md-10 col-md-offset-1">
+            <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">kellenfujimoto.com</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://kellenfujimoto.com" property="cc:attributionName" rel="cc:attributionURL">Kellen Fujimoto</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+        </footer>
+    </div>
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-42768837-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</body>
+</html>

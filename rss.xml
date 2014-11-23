@@ -7,7 +7,29 @@
     <language>en-us</language>
     
     
-    <updated>Sat, 22 Nov 2014 11:02:45 PST</updated>
+    <updated>Mon, 24 Nov 2014 09:00:00 PST</updated>
+    
+    <item>
+      <title>House GOP attempts to slip Benghazi debunking past constituents</title>
+      <link>http://kellenfujimoto.com/links/2014/11/24/house-gop-attempts-to-slip-benghazi-debunking-past-constituents/</link>
+      <pubDate>Mon, 24 Nov 2014 09:00:00 PST</pubDate>
+      
+      <guid>http://kellenfujimoto.com/links/2014/11/24/house-gop-attempts-to-slip-benghazi-debunking-past-constituents/</guid>
+      <description>&lt;p&gt;The GOP-controlled House Intelligence Committee can&amp;rsquo;t bring itself to commit to its farcical obsession with Benghazi:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The House Intelligence Committee report was released with little fanfare on the Friday before Thanksgiving week. Many of its findings echo those of six previous investigations by various congressional committees and a State Department panel.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;And yet they keep on beating on that conspiracy theory door:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The eighth Benghazi investigation is being carried out by a House Select Committee appointed in May.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;At this point, it&amp;rsquo;s more likely that President Obama is a space lizard bringing communism to America. This insidious charade won&amp;rsquo;t end until a sufficiently radical republican is in the Oval Office.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Re/code decides to eschew comments</title>
@@ -233,44 +255,6 @@
 &lt;p&gt;So, while the nation must face the demagogues wresting control of both houses of congress, our little corner of the country will have an improving transportation system (lord knows we need it), will care for children in need, and provide basic checks for gun sales.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Source: &lt;a href=&#34;http://your.kingcounty.gov/elections/2014/nov-general/results/results.pdf&#34;&gt;King County Elections&lt;/a&gt;&lt;/a&gt; (PDF)&lt;/em&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>tsunami notes 1: format choices</title>
-      <link>http://kellenfujimoto.com/tech/2014/10/tsunami-notes-1-format-choices/</link>
-      <pubDate>Wed, 22 Oct 2014 23:00:22 -0800</pubDate>
-      
-      <guid>http://kellenfujimoto.com/tech/2014/10/tsunami-notes-1-format-choices/</guid>
-      <description>&lt;h4&gt;&lt;strong&gt;Sometimes, it&amp;#39;s best to just start &lt;em&gt;somewhere&lt;/em&gt;&lt;/strong&gt;&lt;/h4&gt;
-
-&lt;p&gt;A project has been percolating on my back burner for a long while. My friend &lt;a href=&#34;http://twitter.com/ericjusino&#34;&gt;Eric&lt;/a&gt; came to me with an idea for a truly decentralized social network: a protocol similar to email in spirit but more akin to &lt;a href=&#34;http://en.wikipedia.org/wiki/BitTorrent&#34;&gt;BitTorrent&lt;/a&gt; in implementation. Obviously, discoverability is a challenge in any social network, and one without a central directory harder still. &lt;/p&gt;
-
-&lt;p&gt;Oh yeah, and it has to be both secure and anonymous while in plain sight. &lt;/p&gt;
-
-&lt;p&gt;This is obviously a massive project to bite off, and I want to eventually release this protocol into the open source world and see what direction it takes (it&amp;#39;s only appropriate that such a cooperative network should be built &lt;em&gt;by&lt;/em&gt; the community). I&amp;#39;m going to be using this blog as a journal of my progress and as a way to &amp;ldquo;&lt;a href=&#34;http://en.m.wikipedia.org/wiki/Rubber_duck_debugging&#34;&gt;think out loud&lt;/a&gt;&amp;rdquo; about making this. There&amp;#39;ll be occasional opinion posts on here, but I want to focus on the project. &lt;/p&gt;
-
-&lt;p&gt;Given the scope of this, I&amp;#39;m just going to start building the basic structure I&amp;#39;m looking for so I can begin iterating on the protocol as soon as possible. As this project needs a name (and our joke one of &amp;ldquo;GitFace&amp;rdquo; seems a bit rough), I&amp;#39;m going to go ahead and name it Tsunami. It&amp;#39;s a Japanese word (yay, heritage!), and is reminiscent of how messages propagate through the network, making minimal waves before reaching their destination. &lt;/p&gt;
-
-&lt;p&gt;Today I was hammering-out a basic format for Tsunami messages. To test the network implementation (which I will probably the next post) as soon as possible, I&amp;#39;m just doing a basic JSON structure:&lt;/p&gt;
-
-&lt;pre&gt;{
-    &amp;quot;kind&amp;quot;: &amp;quot;tsunami:alpha&amp;quot;,
-    &amp;quot;id&amp;quot;: &amp;quot;sha512 hex digest&amp;quot;,
-    &amp;quot;payload&amp;quot;: {
-        &amp;quot;metadata&amp;quot;: {
-            &amp;quot;title&amp;quot;: &amp;quot;my first title&amp;quot;,
-            &amp;quot;verification&amp;quot;: &amp;quot;should decrypt to same as message id&amp;quot;
-        },
-        &amp;quot;body&amp;quot;: &amp;quot;payload encrypted using public key encryption. Public key is functionally the to: field&amp;quot;
-    }
-}&lt;/pre&gt;
-
-&lt;p&gt;My good friend &lt;a href=&#34;http://twitter.com/russellhay&#34;&gt;Russell&lt;/a&gt; suggested a binary format to save space and prevent the need to parse out many messages; streamlining this process will result in a huge amount of saved time given how frequently these messages are going to be whizzing to and fro. I&amp;#39;m designing the server so that different message formats can be interchanged without affecting the remaining code. The current version is part of the document string, so changing implementations (such as modifying the encryption or hashing algorithms) can be propagated and declared properly.&lt;/p&gt;
-
-&lt;p&gt;I want this format to be relatively generic — not just a messaging platform, but for syndication, mailing lists, etc. &lt;strong&gt;Keeping the protocol flexible is a primary concern.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Want to get in touch about this project? &lt;a href=&#34;http://twitter.com/rakenodiax&#34;&gt;Find me on Twitter&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

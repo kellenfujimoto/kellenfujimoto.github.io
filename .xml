@@ -6,7 +6,6 @@
 
         <link>http://kellenfujimoto.com/index.xml</link>
         <language>en-us</language>
-        <author>contact@kellenfujimoto.com</author>
         <copyright>kellenfujimoto.com by Kellen Fujimoto is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright>
         <updated>Fri, 07 Nov 2014 20:40:04 PST</updated>
         
@@ -14,7 +13,7 @@
             <title>About Me</title>
             <link>http://kellenfujimoto.com/about/</link>
             <pubDate>Fri, 07 Nov 2014 20:40:04 PST</pubDate>
-            <author>Kellen Fujimoto</author>
+            <author>contact@kellenfujimoto.com</author>
             <guid>http://kellenfujimoto.com/about/</guid>
             <description>
 

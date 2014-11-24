@@ -1,21 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-      <title>Recent Content on Kellen Fujimoto </title>
-      <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://kellenfujimoto.com/index.xml</link>
-    <language>en-us</language>
-    
-    
-    <updated>Mon, 24 Nov 2014 09:00:00 PST</updated>
-    
-    <item>
-      <title>House GOP attempts to slip Benghazi debunking past constituents</title>
-      <link>http://kellenfujimoto.com/links/2014/11/24/house-gop-attempts-to-slip-benghazi-debunking-past-constituents/</link>
-      <pubDate>Mon, 24 Nov 2014 09:00:00 PST</pubDate>
-      
-      <guid>http://kellenfujimoto.com/links/2014/11/24/house-gop-attempts-to-slip-benghazi-debunking-past-constituents/</guid>
-      <description>&lt;p&gt;The GOP-controlled House Intelligence Committee can&amp;rsquo;t bring itself to commit to its farcical obsession with Benghazi:&lt;/p&gt;
+    <channel>
+        <title>Recent Content on Kellen Fujimoto </title>
+        <generator uri="https://gohugo.io">Hugo</generator>
+
+        <link>http://kellenfujimoto.com/index.xml</link>
+        <language>en-us</language>
+        <author>Kellen Fujimoto</author>
+        <copyright>kellenfujimoto.com by Kellen Fujimoto is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright>
+        <updated>Mon, 24 Nov 2014 09:00:00 PST</updated>
+        
+        <item>
+            <title>House GOP attempts to slip Benghazi debunking past constituents</title>
+            <link>http://kellenfujimoto.com/links/2014/11/24/house-gop-attempts-to-slip-benghazi-debunking-past-constituents/</link>
+            <pubDate>Mon, 24 Nov 2014 09:00:00 PST</pubDate>
+            <author>Kellen Fujimoto</author>
+            <guid>http://kellenfujimoto.com/links/2014/11/24/house-gop-attempts-to-slip-benghazi-debunking-past-constituents/</guid>
+            <description>&lt;p&gt;The GOP-controlled House Intelligence Committee can&amp;rsquo;t bring itself to commit to its farcical obsession with Benghazi:&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;The House Intelligence Committee report was released with little fanfare on the Friday before Thanksgiving week. Many of its findings echo those of six previous investigations by various congressional committees and a State Department panel.&lt;/p&gt;
@@ -29,43 +30,43 @@
 
 &lt;p&gt;At this point, it&amp;rsquo;s more likely that President Obama is a space lizard bringing communism to America. This insidious charade won&amp;rsquo;t end until a sufficiently radical republican is in the Oval Office.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Dear Node Concern Trolls: Get Rekt</title>
-      <link>http://kellenfujimoto.com/links/2014/11/23/dear-node-concern-trolls-get-rekt/</link>
-      <pubDate>Sun, 23 Nov 2014 19:02:27 PST</pubDate>
-      
-      <guid>http://kellenfujimoto.com/links/2014/11/23/dear-node-concern-trolls-get-rekt/</guid>
-      <description>&lt;blockquote&gt;
+        </item>
+        
+        <item>
+            <title>Dear Node Concern Trolls: Get Rekt</title>
+            <link>http://kellenfujimoto.com/links/2014/11/23/dear-node-concern-trolls-get-rekt/</link>
+            <pubDate>Sun, 23 Nov 2014 19:02:27 PST</pubDate>
+            <author>Kellen Fujimoto</author>
+            <guid>http://kellenfujimoto.com/links/2014/11/23/dear-node-concern-trolls-get-rekt/</guid>
+            <description>&lt;blockquote&gt;
 &lt;p&gt;I know this is a blunt response. I don’t have time to engage one-on-one with the armies of concern trolls spreading false equivalences and wasting time and emotional energy of the rest of the community. You may know them as the “Christian, dad, husband, programmer”s of the Internet. The people who think they are being victimized because they once heard that someone lost their job after being an asshole on the Internet, and feeling scared of and persecuted by this, without realizing that the position they enjoy in this industry is hugely propped up by financial and technical institutions built upon legacies of sexism, racism, and inequity - because it was (and remains) profitable.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;No comment necessary. The toxic culture in tech (and especially online tech communities) &lt;strong&gt;demands&lt;/strong&gt; preemptive measures to protect the greater community.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Re/code decides to eschew comments</title>
-      <link>http://kellenfujimoto.com/links/2014/11/22/re/code-decides-to-eschew-comments/</link>
-      <pubDate>Sat, 22 Nov 2014 11:02:45 PST</pubDate>
-      
-      <guid>http://kellenfujimoto.com/links/2014/11/22/re/code-decides-to-eschew-comments/</guid>
-      <description>&lt;blockquote&gt;
+        </item>
+        
+        <item>
+            <title>Re/code decides to eschew comments</title>
+            <link>http://kellenfujimoto.com/links/2014/11/22/re/code-decides-to-eschew-comments/</link>
+            <pubDate>Sat, 22 Nov 2014 11:02:45 PST</pubDate>
+            <author>Kellen Fujimoto</author>
+            <guid>http://kellenfujimoto.com/links/2014/11/22/re/code-decides-to-eschew-comments/</guid>
+            <description>&lt;blockquote&gt;
 &lt;p&gt;In effect, we believe that social media is the new arena for commenting, replacing the old onsite approach that dates back many years.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;A brave move by a great site.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Engage!</title>
-      <link>http://kellenfujimoto.com/blog/2014/11/engage/</link>
-      <pubDate>Fri, 21 Nov 2014 21:56:41 PST</pubDate>
-      
-      <guid>http://kellenfujimoto.com/blog/2014/11/engage/</guid>
-      <description>&lt;figure &gt;
+        </item>
+        
+        <item>
+            <title>Engage!</title>
+            <link>http://kellenfujimoto.com/blog/2014/11/engage/</link>
+            <pubDate>Fri, 21 Nov 2014 21:56:41 PST</pubDate>
+            <author>Kellen Fujimoto</author>
+            <guid>http://kellenfujimoto.com/blog/2014/11/engage/</guid>
+            <description>&lt;figure &gt;
     
         &lt;img src=&#34;/img/noel-ring.jpg&#34;  /&gt;
     
@@ -81,25 +82,25 @@
 
 &lt;p&gt;&lt;img src=&#34;http://www.quickmeme.com/img/f8/f82b9a0015008f33a7e047a01948ab0745657f2b966f46041280a7ee4e18fccc.jpg&#34; /&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Things for iOS is free this week</title>
-      <link>http://kellenfujimoto.com/links/2014/11/21/things-for-ios-is-free-this-week/</link>
-      <pubDate>Fri, 21 Nov 2014 13:35:28 PST</pubDate>
-      
-      <guid>http://kellenfujimoto.com/links/2014/11/21/things-for-ios-is-free-this-week/</guid>
-      <description>&lt;p&gt;From what I hear, it&amp;rsquo;s a fantastic app. Nab it while you can!&lt;/p&gt;
+        </item>
+        
+        <item>
+            <title>Things for iOS is free this week</title>
+            <link>http://kellenfujimoto.com/links/2014/11/21/things-for-ios-is-free-this-week/</link>
+            <pubDate>Fri, 21 Nov 2014 13:35:28 PST</pubDate>
+            <author>Kellen Fujimoto</author>
+            <guid>http://kellenfujimoto.com/links/2014/11/21/things-for-ios-is-free-this-week/</guid>
+            <description>&lt;p&gt;From what I hear, it&amp;rsquo;s a fantastic app. Nab it while you can!&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Six Colors reviews the iPad Air 2</title>
-      <link>http://kellenfujimoto.com/links/2014/11/20/six-colors-reviews-the-ipad-air-2/</link>
-      <pubDate>Thu, 20 Nov 2014 10:43:12 PST</pubDate>
-      
-      <guid>http://kellenfujimoto.com/links/2014/11/20/six-colors-reviews-the-ipad-air-2/</guid>
-      <description>&lt;p&gt;Jason Snell is making the iPad Air 2 all the more tempting:&lt;/p&gt;
+        </item>
+        
+        <item>
+            <title>Six Colors reviews the iPad Air 2</title>
+            <link>http://kellenfujimoto.com/links/2014/11/20/six-colors-reviews-the-ipad-air-2/</link>
+            <pubDate>Thu, 20 Nov 2014 10:43:12 PST</pubDate>
+            <author>Kellen Fujimoto</author>
+            <guid>http://kellenfujimoto.com/links/2014/11/20/six-colors-reviews-the-ipad-air-2/</guid>
+            <description>&lt;p&gt;Jason Snell is making the iPad Air 2 all the more tempting:&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;The iPad Air 2 has twice as much RAM of any previous iOS device. And while the effects are subtle, they’re profound. Safari tabs just stay loaded most of the time. Apps that you used recently-ish snap open immediately rather than doing a bunch of housekeeping. Switching directly between apps feels vastly better, because it’s all instantaneous. More RAM lets the entire system breathe.&lt;/p&gt;
@@ -107,25 +108,25 @@
 
 &lt;p&gt;I might break cycle and get the hypothetical iPhone 6s if it includes 2GB of RAM, too. The improvement is a paradigm shift in how responsive the device feels.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Woodland Park Zoo ends controversial elephant exhibit</title>
-      <link>http://kellenfujimoto.com/links/2014/11/19/woodland-park-zoo-ends-controversial-elephant-exhibit/</link>
-      <pubDate>Wed, 19 Nov 2014 15:54:06 PST</pubDate>
-      
-      <guid>http://kellenfujimoto.com/links/2014/11/19/woodland-park-zoo-ends-controversial-elephant-exhibit/</guid>
-      <description>&lt;p&gt;Glad they appear to be getting an upgrade; shame they&amp;rsquo;ll still be in captivity.&lt;/p&gt;
+        </item>
+        
+        <item>
+            <title>Woodland Park Zoo ends controversial elephant exhibit</title>
+            <link>http://kellenfujimoto.com/links/2014/11/19/woodland-park-zoo-ends-controversial-elephant-exhibit/</link>
+            <pubDate>Wed, 19 Nov 2014 15:54:06 PST</pubDate>
+            <author>Kellen Fujimoto</author>
+            <guid>http://kellenfujimoto.com/links/2014/11/19/woodland-park-zoo-ends-controversial-elephant-exhibit/</guid>
+            <description>&lt;p&gt;Glad they appear to be getting an upgrade; shame they&amp;rsquo;ll still be in captivity.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Michigan governor claims same sex marriages ‘never existed’</title>
-      <link>http://kellenfujimoto.com/links/2014/11/19/michigan-governor-claims-same-sex-marriages-never-existed/</link>
-      <pubDate>Wed, 19 Nov 2014 15:45:35 PST</pubDate>
-      
-      <guid>http://kellenfujimoto.com/links/2014/11/19/michigan-governor-claims-same-sex-marriages-never-existed/</guid>
-      <description>&lt;p&gt;Homophobic revisionism, Michigan edition:&lt;/p&gt;
+        </item>
+        
+        <item>
+            <title>Michigan governor claims same sex marriages ‘never existed’</title>
+            <link>http://kellenfujimoto.com/links/2014/11/19/michigan-governor-claims-same-sex-marriages-never-existed/</link>
+            <pubDate>Wed, 19 Nov 2014 15:45:35 PST</pubDate>
+            <author>Kellen Fujimoto</author>
+            <guid>http://kellenfujimoto.com/links/2014/11/19/michigan-governor-claims-same-sex-marriages-never-existed/</guid>
+            <description>&lt;p&gt;Homophobic revisionism, Michigan edition:&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;The Governor of Michigan is trying to void the marriages of more than 300 same-sex couples, who wed while marriage equality was briefly legal in the state.&lt;/p&gt;
@@ -133,15 +134,15 @@
 
 &lt;p&gt;Marriage equality isn&amp;rsquo;t destroying the &amp;ldquo;institution&amp;rdquo;&amp;rsquo;s &amp;ldquo;sanctity&amp;rdquo;, the farcical bigots are.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>GSN reviews the studio neat ice kit</title>
-      <link>http://kellenfujimoto.com/links/2014/11/19/gsn-reviews-the-studio-neat-ice-kit/</link>
-      <pubDate>Wed, 19 Nov 2014 13:41:52 PST</pubDate>
-      
-      <guid>http://kellenfujimoto.com/links/2014/11/19/gsn-reviews-the-studio-neat-ice-kit/</guid>
-      <description>&lt;p&gt;World-renowned mixologist &lt;a href=&#34;http://goodspiritsnews.wordpress.com&#34;&gt;Blair Frödelius&lt;/a&gt; reviews the &lt;a href=&#34;http://www.studioneat.com/products/neaticekit&#34;&gt;Studio Neat Ice Kit&lt;/a&gt;:&lt;/p&gt;
+        </item>
+        
+        <item>
+            <title>GSN reviews the studio neat ice kit</title>
+            <link>http://kellenfujimoto.com/links/2014/11/19/gsn-reviews-the-studio-neat-ice-kit/</link>
+            <pubDate>Wed, 19 Nov 2014 13:41:52 PST</pubDate>
+            <author>Kellen Fujimoto</author>
+            <guid>http://kellenfujimoto.com/links/2014/11/19/gsn-reviews-the-studio-neat-ice-kit/</guid>
+            <description>&lt;p&gt;World-renowned mixologist &lt;a href=&#34;http://goodspiritsnews.wordpress.com&#34;&gt;Blair Frödelius&lt;/a&gt; reviews the &lt;a href=&#34;http://www.studioneat.com/products/neaticekit&#34;&gt;Studio Neat Ice Kit&lt;/a&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Really, the whole design of the kit is well thought out and the tools themselves are built to last.  One of the better bartool sets I’ve come across in recent years.&lt;/p&gt;
@@ -149,15 +150,15 @@
 
 &lt;p&gt;I first heard about Studio Neat from &lt;a href=&#34;http://marco.org&#34;&gt;Marco Arment&lt;/a&gt; and &lt;a href=&#34;http://caseyliss.com&#34;&gt;Casey Liss&lt;/a&gt; on &lt;a href=&#34;http://atp.fm/&#34;&gt;The Accidental Tech Podcast&lt;/a&gt;, and am glad it met Blair&amp;rsquo;s standards of excellence. I&amp;rsquo;d highly recommend &lt;a href=&#34;http://goodspiritsnews.wordpress.com&#34;&gt;his site&lt;/a&gt; for other reviews on all things bartending.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>WA banks don&#39;t face consequences for illegal activity</title>
-      <link>http://kellenfujimoto.com/links/2014/11/19/wa-banks-dont-face-consequences-for-illegal-activity/</link>
-      <pubDate>Wed, 19 Nov 2014 11:01:23 PST</pubDate>
-      
-      <guid>http://kellenfujimoto.com/links/2014/11/19/wa-banks-dont-face-consequences-for-illegal-activity/</guid>
-      <description>&lt;p&gt;King5:&lt;/p&gt;
+        </item>
+        
+        <item>
+            <title>WA banks don&#39;t face consequences for illegal activity</title>
+            <link>http://kellenfujimoto.com/links/2014/11/19/wa-banks-dont-face-consequences-for-illegal-activity/</link>
+            <pubDate>Wed, 19 Nov 2014 11:01:23 PST</pubDate>
+            <author>Kellen Fujimoto</author>
+            <guid>http://kellenfujimoto.com/links/2014/11/19/wa-banks-dont-face-consequences-for-illegal-activity/</guid>
+            <description>&lt;p&gt;King5:&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Under the [Foreclosure Fairness Act], a bad faith finding is a violation of the Consumer Protection Act. It&amp;rsquo;s the job of the Attorney General&amp;rsquo;s Office to enforce that act by filing suit against violators. But that has never happened with a bank found to be negotiating in bad faith with a homeowner.&lt;/p&gt;
@@ -165,91 +166,8 @@
 
 &lt;p&gt;It&amp;rsquo;s frankly shocking that in America — America! — banks are allowed to negotiate in bad faith with borrowers (a scenario twice as common as the reverse) and get a free pass from the government. &lt;a href=&#34;http://www.nytimes.com/2008/09/28/business/28every.html&#34;&gt;Oh wait…&lt;/a&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Automated Hugo posting with Dropbox</title>
-      <link>http://kellenfujimoto.com/tech/2014/11/automated-hugo-posting-with-dropbox/</link>
-      <pubDate>Tue, 18 Nov 2014 18:27:14 PST</pubDate>
-      
-      <guid>http://kellenfujimoto.com/tech/2014/11/automated-hugo-posting-with-dropbox/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve thrown together a little script to automatically build my Hugo site when I write a new draft (using Drafts 4 on my phone — that&amp;rsquo;s the subject of another post, though). It&amp;rsquo;s hacked-together Perl and a &lt;a href=&#34;https://github.com/alandipert/fswatch&#34;&gt;file system monitor&lt;/a&gt; right now; I&amp;rsquo;m planning on cleaning it up and putting it on github when I get my act together, though.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Let&#39;s Encrypt announces free, automated SSL certificates starting next summer</title>
-      <link>http://kellenfujimoto.com/links/2014/11/18/lets-encrypt-announces-free-automated-ssl-certificates-starting-next-summer/</link>
-      <pubDate>Tue, 18 Nov 2014 14:33:30 PST</pubDate>
-      
-      <guid>http://kellenfujimoto.com/links/2014/11/18/lets-encrypt-announces-free-automated-ssl-certificates-starting-next-summer/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://letsencrypt.org/&#34;&gt;Let&amp;rsquo;s Encrypt&lt;/a&gt; is hopefully ushering in a new era of &lt;a href=&#34;http://stackoverflow.com/a/4495612&#34;&gt;a more secure internet&lt;/a&gt;. The necessary precaution of acquiring a certificate is often too big a hassle — or too expensive — for small shops to bother with, even though going without is a huge risk for their users. I&amp;rsquo;m certainly rooting for them to succeed.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>http://kellenfujimoto.com/about/</link>
-      <pubDate>Fri, 07 Nov 2014 20:40:04 PST</pubDate>
-      
-      <guid>http://kellenfujimoto.com/about/</guid>
-      <description>
-
-&lt;p&gt;I&amp;rsquo;m a (practically) native Seattleite of a decidedly nerdy persuasion; the fact that I have a blog would be a good indication of that, I guess. When I&amp;rsquo;m not typing things into here, I&amp;rsquo;m probably out &lt;a href=&#34;http://parkourvisions.org&#34;&gt;jumping on stuff&lt;/a&gt;, making &lt;a href=&#34;https://500px.com/fujimotophotography&#34;&gt;pretty photos&lt;/a&gt;, and tinkering with various software projects.&lt;/p&gt;
-
-&lt;p&gt;I live in a cute little SLU apartment with my partner No&amp;euml;l and our cat Bella. We&amp;rsquo;re both homebodys at heart, but we do find time to explore the area (she&amp;rsquo;s from the east coast) and sample the excellent culinary options available to us.&lt;/p&gt;
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;/img/about-family.jpg&#34;  /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;h4&gt;Our growing family&lt;/h4&gt;
+        </item>
         
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-&lt;h2 id=&#34;toc_0&#34;&gt;And this site?&lt;/h2&gt;
-
-&lt;p&gt;I love building websites. This site is built on &lt;a href=&#34;http://gohugo.io&#34;&gt;Hugo&lt;/a&gt;, a static site generator written in &lt;a href=&#34;http://golang.com&#34;&gt;Go&lt;/a&gt;. Most posts for the time being will be on my various adventures in code slinging, and I&amp;rsquo;ll try to update this regularly with links I find interesting. &lt;a href=&#34;http://kellenfujimoto.com/rss.xml&#34;&gt;Subscribe to the RSS feed&lt;/a&gt; or &lt;a href=&#34;http://twitter.com/rakenodiax&#34;&gt;follow me on Twitter&lt;/a&gt; to see when I post, and thanks for reading!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Another data giant with good intentions</title>
-      <link>http://kellenfujimoto.com/links/2014/11/06/another-data-giant-with-good-intentions/</link>
-      <pubDate>Thu, 06 Nov 2014 08:39:55 PST</pubDate>
-      
-      <guid>http://kellenfujimoto.com/links/2014/11/06/another-data-giant-with-good-intentions/</guid>
-      <description>&lt;p&gt;The Economist:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Skybox, a recently acquired division of Google, is […] promising free imagery for categories of work it deems “for good”.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;It&amp;rsquo;s interesting how niche industries dominated by a few giant companies seem to always start off with the most altruistic goals. That Google is behind the helm of this company isn&amp;rsquo;t surprising — they&amp;rsquo;re even repurposing the &amp;ldquo;don&amp;rsquo;t be evil&amp;rdquo; rhetoric.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>the architect got left behind</title>
-      <link>http://kellenfujimoto.com/tech/2014/11/the-architect-got-left-behind/</link>
-      <pubDate>Wed, 05 Nov 2014 23:02:04 PST</pubDate>
-      
-      <guid>http://kellenfujimoto.com/tech/2014/11/the-architect-got-left-behind/</guid>
-      <description>&lt;p&gt;Way back when I was in high school, all of my schoolwork fell into a similar pattern: I would be either monumentally enthusiastic or apprehensive towards every assignment. I&amp;rsquo;d dive head first into a project, or freeze at the sight of 80 whole pages of reading a night.&lt;sup id=&#34;fnref1-the-architect-got-left-behind&#34;&gt;&lt;a href=&#34;#fn1-the-architect-got-left-behind&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;p&gt;I was fortunate enough to attend a school that &lt;a href=&#34;http://pscs.org/about-pscs/&#34;&gt;encourages personal growth and self reflection&lt;/a&gt;, and so I learned to structure my work and channel my enthusiasm into productivity. It is a continuing process, but I like to think that I correct myself earlier as I practice more.&lt;/p&gt;
-
-&lt;p&gt;This diversion is an explanation. Though I am extremely excited to get Tsunami off the ground, I jumped into prototyping without considering the structure of the app. In plowing forward along the critical path, I boxed myself into a monolithic app which would make future improvements difficult at best.&lt;/p&gt;
-
-&lt;p&gt;Keeping this in mind, I&amp;rsquo;m going to be blogging more about the &lt;em&gt;structure&lt;/em&gt; of Tsunami, and developing a set of meta-goals for the project to guide future development. Expect more soon!&lt;/p&gt;
-
-&lt;p id=&#34;fn1-the-architect-got-left-behind&#34;&gt;I know, just so much, right?&lt;a href=&#34;#fnref1-the-architect-got-left-behind&#34;&gt;↩&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
+    </channel>
 </rss>
+

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <atom:link href="http://kellenfujimoto.com/rss.xml" rel="self" type="application/rss+xml" />
-        <title>Links on Kellen Fujimoto </title>
+        <title>Kellen Fujimoto </title>
         <generator>Hugo</generator>
 
         <link>http://kellenfujimoto.com/link/index.xml</link>

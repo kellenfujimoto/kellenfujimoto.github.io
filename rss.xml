@@ -507,7 +507,7 @@
             <pubDate>Wed, 22 Oct 2014 23:00:22 -0800</pubDate>
             <author>contact@kellenfujimoto.com</author>
             <guid>http://kellenfujimoto.com/tech/2014/10/tsunami-notes-1-format-choices/</guid>
-            <description>&lt;h4&gt;&lt;strong&gt;Sometimes, it&amp;#39;s best to just start *somewhere*&lt;/strong&gt;&lt;/h4&gt;
+            <description>&lt;h4&gt;**Sometimes, it&amp;#39;s best to just start *somewhere***&lt;/h4&gt;
 
 &lt;p&gt;A project has been percolating on my back burner for a long while. My friend &lt;a href=&#34;http://twitter.com/ericjusino&#34;&gt;Eric&lt;/a&gt; came to me with an idea for a truly decentralized social network: a protocol similar to email in spirit but more akin to &lt;a href=&#34;http://en.wikipedia.org/wiki/BitTorrent&#34;&gt;BitTorrent&lt;/a&gt; in implementation. Obviously, discoverability is a challenge in any social network, and one without a central directory harder still. &lt;/p&gt;
 
@@ -533,7 +533,7 @@
 
 &lt;p&gt;My good friend &lt;a href=&#34;http://twitter.com/russellhay&#34;&gt;Russell&lt;/a&gt; suggested a binary format to save space and prevent the need to parse out many messages; streamlining this process will result in a huge amount of saved time given how frequently these messages are going to be whizzing to and fro. I&amp;#39;m designing the server so that different message formats can be interchanged without affecting the remaining code. The current version is part of the document string, so changing implementations (such as modifying the encryption or hashing algorithms) can be propagated and declared properly.&lt;/p&gt;
 
-&lt;p&gt;I want this format to be relatively generic — not just a messaging platform, but for syndication, mailing lists, etc. &lt;strong&gt;Keeping the protocol flexible is a primary concern.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I want this format to be relatively generic — not just a messaging platform, but for syndication, mailing lists, etc. **Keeping the protocol flexible is a primary concern.**&lt;/p&gt;
 
 &lt;p&gt;Want to get in touch about this project? &lt;a href=&#34;http://twitter.com/rakenodiax&#34;&gt;Find me on Twitter&lt;/a&gt;&lt;/p&gt;
 </description>

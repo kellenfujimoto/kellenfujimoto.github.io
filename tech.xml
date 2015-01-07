@@ -45,13 +45,13 @@
             <pubDate>Wed, 22 Oct 2014 23:00:22 -0800</pubDate>
             <author>contact@kellenfujimoto.com</author>
             <guid>http://kellenfujimoto.com/tech/2014/10/tsunami-notes-1-format-choices/</guid>
-            <description>&lt;h4&gt;&lt;strong&gt;Sometimes, it&amp;#39;s best to just start &lt;em&gt;somewhere&lt;/em&gt;&lt;/strong&gt;&lt;/h4&gt;
+            <description>&lt;h4&gt;&lt;strong&gt;Sometimes, it&amp;#39;s best to just start *somewhere*&lt;/strong&gt;&lt;/h4&gt;
 
 &lt;p&gt;A project has been percolating on my back burner for a long while. My friend &lt;a href=&#34;http://twitter.com/ericjusino&#34;&gt;Eric&lt;/a&gt; came to me with an idea for a truly decentralized social network: a protocol similar to email in spirit but more akin to &lt;a href=&#34;http://en.wikipedia.org/wiki/BitTorrent&#34;&gt;BitTorrent&lt;/a&gt; in implementation. Obviously, discoverability is a challenge in any social network, and one without a central directory harder still. &lt;/p&gt;
 
 &lt;p&gt;Oh yeah, and it has to be both secure and anonymous while in plain sight. &lt;/p&gt;
 
-&lt;p&gt;This is obviously a massive project to bite off, and I want to eventually release this protocol into the open source world and see what direction it takes (it&amp;#39;s only appropriate that such a cooperative network should be built &lt;em&gt;by&lt;/em&gt; the community). I&amp;#39;m going to be using this blog as a journal of my progress and as a way to &amp;ldquo;&lt;a href=&#34;http://en.m.wikipedia.org/wiki/Rubber_duck_debugging&#34;&gt;think out loud&lt;/a&gt;&amp;rdquo; about making this. There&amp;#39;ll be occasional opinion posts on here, but I want to focus on the project. &lt;/p&gt;
+&lt;p&gt;This is obviously a massive project to bite off, and I want to eventually release this protocol into the open source world and see what direction it takes (it&amp;#39;s only appropriate that such a cooperative network should be built *by* the community). I&amp;#39;m going to be using this blog as a journal of my progress and as a way to &amp;ldquo;&lt;a href=&#34;http://en.m.wikipedia.org/wiki/Rubber_duck_debugging&#34;&gt;think out loud&lt;/a&gt;&amp;rdquo; about making this. There&amp;#39;ll be occasional opinion posts on here, but I want to focus on the project. &lt;/p&gt;
 
 &lt;p&gt;Given the scope of this, I&amp;#39;m just going to start building the basic structure I&amp;#39;m looking for so I can begin iterating on the protocol as soon as possible. As this project needs a name (and our joke one of &amp;ldquo;GitFace&amp;rdquo; seems a bit rough), I&amp;#39;m going to go ahead and name it Tsunami. It&amp;#39;s a Japanese word (yay, heritage!), and is reminiscent of how messages propagate through the network, making minimal waves before reaching their destination. &lt;/p&gt;
 

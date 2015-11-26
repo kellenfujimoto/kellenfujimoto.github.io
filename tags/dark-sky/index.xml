@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dark Sky on Kellen&#39;s Blog</title>
+    <link>http://kellenfujimoto.com/tags/dark-sky/</link>
+    <description>Recent content in Dark Sky on Kellen&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 17 Aug 2015 09:00:00 +0000</lastBuildDate>
+    <atom:link href="http://kellenfujimoto.com/tags/dark-sky/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Weather App Update</title>
+      <link>http://kellenfujimoto.com/2015/08/weather-app-update/</link>
+      <pubDate>Mon, 17 Aug 2015 09:00:00 +0000</pubDate>
+      
+      <guid>http://kellenfujimoto.com/2015/08/weather-app-update/</guid>
+      <description>
+
+&lt;p&gt;Given Seattle&amp;rsquo;s recent spat of rain, it&amp;rsquo;s high time for a weather app update. In my previous post, I recommended Dark Sky over Yahoo! Weather and Solar. Since then, a bunch of new apps have entered the space, some deserving of attention.&lt;/p&gt;
+
+&lt;h2 id=&#34;dark-sky-a-precipitous-fall:798d06a5ccf2f0977ccfe820840fb136&#34;&gt;Dark Sky: a precipitous fall&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;(Dark Sky: &lt;a href=&#34;https://appsto.re/us/nhD1E.i&#34;&gt;$4 in the iOS App Store&lt;/a&gt;)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://kellenfujimoto.com/img/dark-sky.jpg&#34; alt=&#34;Dark Sky&#39;s new launch screen&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I loved the &lt;a href=&#34;https://www.google.com/search?q=dark+sky&amp;amp;amp;client=safari&amp;amp;amp;hl=en-us&amp;amp;amp;prmd=iv&amp;amp;amp;source=lnms&amp;amp;amp;tbm=isch&amp;amp;amp;sa=X&amp;amp;amp;ved=0CAYQ_AUoAWoVChMIu7CT-J-sxwIVAyuICh05BgS5&amp;amp;amp;biw=414&amp;amp;amp;bih=628#hl=en-us&amp;amp;amp;tbm=isch&amp;amp;amp;q=dark+sky+ios&amp;amp;amp;imgrc=tKnXumassBG0rM%3A&#34;&gt;old Dark Sky interface&lt;/a&gt;. It was clean and efficient. Unfortunately, they veered off into &amp;ldquo;playing with fire&amp;rdquo; levels of UI experimentation. Jackadam has shoved a weather timeline into a thermometer metaphor, poisoning what was a professionally focused interface.&lt;/p&gt;
+
+&lt;p&gt;Additionally, they have followed this skeumorphic rabbit hole into the week view. Previously, tapping these little lasagnes would make rain portions of the forecast blue, indicating if there was going to be rain for the rest of the day. This didn&amp;rsquo;t alter the layout, it just revealed more detail. The current version shoves their fancy new thermometer under the tapped day, managing to replace useful information with a confusing new display.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s probably no surprise that I don&amp;rsquo;t use Dark Sky as my weather app anymore. I &lt;em&gt;do&lt;/em&gt; use it for rain notifications: they still send a push notification when rain is predicted for your area. A new feature allows you to set custom notifications for precipitation chance, forecasted temperature, etc., so you know whether to bring shorts or a rain coat to work.&lt;/p&gt;
+
+&lt;h2 id=&#34;check-the-weather-elegant-utility:798d06a5ccf2f0977ccfe820840fb136&#34;&gt;Check the Weather: elegant utility&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;(Check the Weather: &lt;a href=&#34;https://appsto.re/us/3phqH.i&#34;&gt;$3 in the iOS App Store&lt;/a&gt;)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://kellenfujimoto.com/img/check-the-weather.jpg&#34; alt=&#34;Check the Weather makes checking the basics easy and pleasant&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Check the Weather manages to pack a lot of information into a relatively clean interface. It has Dark Sky integration, and a nice big indication for temperature.&lt;/p&gt;
+
+&lt;p&gt;If I had one nitpick, it&amp;rsquo;s that the hourly view (easy to get to by swiping right) is displayed textually instead of visually. As John Siracusa &lt;a href=&#34;http://5by5.tv/hypercritical/19&#34;&gt;says&lt;/a&gt;, &amp;ldquo;don&amp;rsquo;t make me read.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;Though it isn&amp;rsquo;t my regular weather app, Check the Weather is a great take on a traditional weather app, with handy information at your fingertips.&lt;/p&gt;
+
+&lt;h2 id=&#34;weather-line-they-figured-it-out:798d06a5ccf2f0977ccfe820840fb136&#34;&gt;Weather Line: they figured it out&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;(Weather Line: &lt;a href=&#34;https://appsto.re/us/NBUOQ.i&#34;&gt;$3 in the iOS App Store&lt;/a&gt;)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://kellenfujimoto.com/img/weather-line.jpg&#34; alt=&#34;Scrolling through the weather line is as fun as it is informative&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I use Weather Line every day. It visually shows what the forecast is for the rest of the day: blue line? It&amp;rsquo;ll be rainy. Going up? It&amp;rsquo;ll be hotter. There is also a small info panel that will show the details of any hour you tap on. The metaphor spans the hour, day, and month views, and looks great.&lt;/p&gt;
+
+&lt;p&gt;Weather Line also integrates Dark Sky, for precipitation volume:&lt;/p&gt;
+
+&lt;h2 id=&#34;what-you-should-get:798d06a5ccf2f0977ccfe820840fb136&#34;&gt;What you should get&lt;/h2&gt;
+
+&lt;p&gt;Dark Sky&amp;rsquo;s weather alerts and Weather Line&amp;rsquo;s intuitive interface are a fantastic one-two combo.&lt;/p&gt;
+
+&lt;p&gt;If I had to pick just one, I&amp;rsquo;d suggest Dark Sky — plot twist! Their proactive alerts are a lifesaver, especially if you normally don&amp;rsquo;t think about the forecast before heading out for the day. Especially if you live in a place where it can go from 89° to rain all day during the course of a week, it helps to have the worry taken care of for you.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

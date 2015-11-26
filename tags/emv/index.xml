@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emv on Kellen&#39;s Blog</title>
+    <link>http://kellenfujimoto.com/tags/emv/</link>
+    <description>Recent content in Emv on Kellen&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Aug 2015 09:01:00 +0000</lastBuildDate>
+    <atom:link href="http://kellenfujimoto.com/tags/emv/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>EMV Concerns — Do They Have Merit?</title>
+      <link>http://kellenfujimoto.com/2015/08/emv-concerns--do-they-have-merit/</link>
+      <pubDate>Mon, 24 Aug 2015 09:01:00 +0000</pubDate>
+      
+      <guid>http://kellenfujimoto.com/2015/08/emv-concerns--do-they-have-merit/</guid>
+      <description>&lt;p&gt;The upcoming &lt;a href=&#34;https://en.wikipedia.org/wiki/EMV&#34; title=&#34;EMV — Wikipedia.org&#34;&gt;EMV&lt;/a&gt; &lt;a href=&#34;http://blogs.wsj.com/corporate-intelligence/2014/02/06/october-2015-the-end-of-the-swipe-and-sign-credit-card/&#34; title=&#34;The End of the Swipe-and-Sign Credit Card — The Wall Street Journal&#34;&gt;transition&lt;/a&gt; is sowing doubt amongst many a tech pundit. Predictions of consumer confusion and beleaguered merchants abound, but does this fear-mongering hold any water? I&amp;rsquo;m a large proponent of these &amp;ldquo;Chip-and-PIN&amp;rdquo; cards, and the anxiety surrounding them amounts to little more than the usual fear of technological advancement. &lt;a href=&#34;http://glennf.com&#34; title=&#34;Glenn Fleishman&#34;&gt;Glenn Fleishman&lt;/a&gt; recently wrote an article for Fast Company — &lt;a href=&#34;http://www.fastcompany.com/3049641/the-new-chip-equipped-credit-cards-safer-and-for-now-more-confusing &amp;quot;The New Chip-Equipped Credit Cards: Safer, and (for Now&#34;&gt;&lt;em&gt;The New Chip-Equipped Credit Cards: Safer, and (for Now) More Confusing&lt;/em&gt;&lt;/a&gt; More Confusing — Fast Company&amp;rdquo;) — which articulates the criticisms of EMV in light of the impending switch.&lt;/p&gt;
+
+&lt;p&gt;In spite of Fleishman&amp;rsquo;s hedging parenthetical, he opens the article with unqualified skepticism:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The confusion over what&amp;rsquo;s coming will lead to frustration, merchant liability, and potential lost sales and unexpected fraud after a rule change kicks in October 1.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;So, there are several arguments for why EMV would lead to such destructive frustration: PIN requirements lead to infrequent card use, it&amp;rsquo;s unclear when a PIN or signature is required, and consumers will default to swiping their EMV cards. His evidence supporting these arguments are unconvincing, however.&lt;/p&gt;
+
+&lt;p&gt;Fleishman quotes Julie Conroy, research director at Aite Group, as saying the PIN requirement in Canada would irritate and confuse the American consumer. He cites that problems issuing PINs caused &amp;ldquo;transaction volume [to] dip significantly&amp;rdquo;. &lt;a href=&#34;http://www.cardhub.com/edu/chip-and-pin-vs-chip-and-signature/&#34; title=&#34;Chip-and-Pin vs. Chip-and-Signature — Cardhub.com&#34;&gt;EMV cards in the US will not be using mandatory PINs&lt;/a&gt;, though. Cards here will follow the same rules as our old magstripe cards: debit cards will require a PIN (in some situations), and credit cards will be Chip-and-Signature.&lt;/p&gt;
+
+&lt;p&gt;Another argument is that, with US cards sometimes requiring a signature, consumers will be confused about whether they need to enter a PIN or sign for purchases. This difference already exists in America&amp;rsquo;s swiped cards, with debit transactions requiring a PIN and credit transactions using a signature. This barrier may have existed with the introduction of debit transactions, but is hardly a distinguishing characteristic between EMV and magstripe.&lt;/p&gt;
+
+&lt;p&gt;If those bumbling consumers forget the magic chip on their card and try to swipe it on an EMV-compatible reader, they&amp;rsquo;ll be prompted to dip it instead:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;A consumer who swipes a chipped credit card in a reader that&amp;rsquo;s equipped with an EMV reader should be prompted to dip the card instead. This should keep the merchant from bearing excess risk due to someone swiping instead of dipping. If the card has a PIN—whether from one of the few U.S. bank which require it, a debit card, or an international traveler from a chip-and-PIN region—the consumer is prompted to enter the PIN.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Sounds less confusing than some card readers I have to use today, and on par with the more intuitive ones.&lt;/p&gt;
+
+&lt;p&gt;Fleishman is also concerned with the liability shift&amp;rsquo;s impact on merchants:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;…research shows that only 59% of retail locations will be ready to go with chip readers by the end of 2016. That leaves millions with just old-fashioned swipe readers.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Firstly, consumers shouldn&amp;rsquo;t worry about merchant concerns such as this. Yes, consumers with EMV cards will be more vulnerable to fraud, but are not held liable for losses due to it. Additionally, with &lt;a href=&#34;https://squareup.com/emv-liability-shift&#34; title=&#34;EMV Card Reader — Square&#34;&gt;Square&lt;/a&gt; and &lt;a href=&#34;https://www.paypal.com/webapps/mpp/emv&#34; title=&#34;EMV Card Reader — PayPal&#34;&gt;PayPal&lt;/a&gt; coming out with EMV readers, the champions of small business transactions should help alleviate this issue.&lt;/p&gt;
+
+&lt;p&gt;Change is scary, but the massive benefits of EMV and (eventually) NFC vastly outweigh the relatively mild disadvantages. Merchants will need to work on updating their POS terminals to accept the new payment methods, but the transition is gathering steam with support for businesses of all shapes and sizes. Not only is this upgrade inevitable, its challenges have already been tackled the world over. America&amp;rsquo;s credit card infrastructure may have been hobbling along for awhile, but the burgeoning growth of &lt;a href=&#34;http://www.apple.com/apple-pay/&#34; title=&#34;Apple Pay — Apple.com&#34;&gt;high-tech payments&lt;/a&gt; is signaling that the country is ready for an upgrade.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
